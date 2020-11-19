@@ -3,7 +3,7 @@ Making Arduino Human or Object tracking Robot using Pixy2 Camera
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://youtu.be/D4u3jjKXx3o">
     <img src="Images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -13,7 +13,7 @@ Making Arduino Human or Object tracking Robot using Pixy2 Camera
     Let's Make it
     <br />
     <br />
-    <a href="https://github.com/julhashossain/Arduino-Human-Object-Tracking-Robot">View Demo</a>
+    <a href="https://youtu.be/D4u3jjKXx3o">View Demo</a>
     ·
     <a href="https://github.com/julhashossain/Arduino-Human-Object-Tracking-Robot/issues">Report Bug</a>
     ·
@@ -94,7 +94,7 @@ Here is the complete circuit diagram of the project.
 Here is the testing result. Click on the GIF to watch the full project making tutorial on YouTube.
 
 <p align="center">
-  <a href="#">
+  <a href="https://youtu.be/D4u3jjKXx3o">
     <img src="Images/Test.gif" alt="Logo">
   </a>
     <br />
